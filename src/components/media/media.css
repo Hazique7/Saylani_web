@@ -1,0 +1,15 @@
+.media-container{
+    display: inline-block;
+    padding: 5px;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+}
+.media{
+    height: 340px;
+    width: 360px;
+    width: 100%;
+}
+.media-container > h1{
+  color: #254043;;
+}
