@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saylani_web/static/css/main.b3e073ff.css",
+    "main.js": "/Saylani_web/static/js/main.3048a297.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Saylani_web/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Saylani_web/index.html",
+    "main.b3e073ff.css.map": "/Saylani_web/static/css/main.b3e073ff.css.map",
+    "main.3048a297.js.map": "/Saylani_web/static/js/main.3048a297.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Saylani_web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e073ff.css",
+    "static/js/main.3048a297.js"
+  ]
+}
